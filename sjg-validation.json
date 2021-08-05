@@ -1,0 +1,8 @@
+{
+"name":"Miyabi#2417",
+"ticker":"MYB",
+"discordId":"854326302454317096",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/Miyabi-Kyoto/cardano_json/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/Miyabi-Kyoto/cardano_json/main/sjg-validation.json"
+}
